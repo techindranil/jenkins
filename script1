@@ -1,4 +1,3 @@
 echo "This is a Shell Script"
-who am i 
-hostname 
-ip a
+cal
+hostname
